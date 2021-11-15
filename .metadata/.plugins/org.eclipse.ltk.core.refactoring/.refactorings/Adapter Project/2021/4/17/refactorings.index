@@ -1,0 +1,18 @@
+1618799114229	Move 'bbs.jsp' to 'bbs'
+1618799133332	Move 'java.jsp' to 'bbs'
+1618799154496	Move 'java.jsp' to 'webapp'
+1618799465375	Rename resource 'bbs.jsp'
+1618799543605	Delete element
+1618985496693	Move 'chat.jsp' to 'chat'
+1618985508540	Rename resource 'chat.jsp'
+1618985584516	Rename type 'ChatServer'
+1619167612186	Rename resource 'bbs'
+1619167622800	Rename resource 'javabbs.jsp'
+1619168007171	Move 'write.jsp' to 'java'
+1619168010687	Move 'writeAction.jsp' to 'java'
+1619169697932	Delete element
+1619194558742	Rename resource 'delectAction.jsp'
+1619194599347	Rename resource 'delete.jsp'
+1619194910426	Delete element
+1619194913792	Delete element
+1619195599410	Delete element

@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1192898492.index
+1463772682.index
+2050034961.index
+2984911677.index
+2330143437.index
+3390114023.index
+200389698.index
+825674046.index
+1596150544.index
+2331399505.index

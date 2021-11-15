@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;PythonChat/src/main/java/chat&apos;&#x0D;&#x0A;- Original project: &apos;JavaChat&apos;&#x0D;&#x0A;- Destination element: &apos;PythonChat/src/main/java/chat&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     chat.ChatUnCountServlet.java&#x0D;&#x0A;     chat.ChatCountServlet.java" description="Copy compilation units" destination="=PythonChat/src\/main\/java&lt;chat" element1="/src\/main\/java&lt;chat{ChatUnCountServlet.java" element2="/src\/main\/java&lt;chat{ChatCountServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1621772204627" units="2" version="1.0"/>
+</session>

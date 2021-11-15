@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Fri Jun 11 02:53:39 KST 2021
+org.eclipse.jst.jee.server\:JavaChat=C\:\\apache-tomcat-9.0.44\\wtpwebapps\\JavaChat
+org.eclipse.jst.jee.server\:PythonChat=C\:\\apache-tomcat-9.0.44\\wtpwebapps\\PythonChat
+org.eclipse.jst.jee.server\:CChat=C\:\\apache-tomcat-9.0.44\\wtpwebapps\\CChat
+org.eclipse.jst.jee.server\:Adapter\ Project=C\:\\apache-tomcat-9.0.44\\wtpwebapps\\Adapter Project

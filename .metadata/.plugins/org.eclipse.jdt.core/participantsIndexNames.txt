@@ -1,0 +1,31 @@
+INDEX VERSION 1.131
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3805963921.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3184348072.index
+\Adapter\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1124398698.index
+\Chat\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1370699830.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1624091570.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2212476271.index
+\JavaChat\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1227589628.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3866118400.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2551559644.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2569266532.index
+\Javachat\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3491436180.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3801386249.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4244069752.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1192898492.index
+\Adapter Project\src\main\java
+C:\Users\lily5\OneDrive\Document\eclipse-workspace\Adapter Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\68668896.index
+\UserChat\src
